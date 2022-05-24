@@ -1,0 +1,1 @@
+classes = ["Fighter", "Rogue", "Wizard", "Paladin", "Ranger"]

@@ -1,0 +1,1 @@
+races = ["Human", "Elf", "Dwarf", "Gnome", "Halfling"]
